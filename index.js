@@ -1,5 +1,5 @@
 module.exports = {
-  extends: ['nodesecurity/es5'],
+  extends: ['andyet/es5'],
   env: {
     es6: true
   },

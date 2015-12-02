@@ -1,14 +1,14 @@
 {
-  "name": "eslint-config-nodesecurity",
-  "version": "1.2.0",
-  "description": "eslint configuration used in nodesecurity projects",
+  "name": "eslint-config-andyet",
+  "version": "1.0.0",
+  "description": "eslint configuration used in andyet projects",
   "main": "index.js",
   "scripts": {
     "test": "echo \"no tests\""
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/requiresafe/eslint-config-nodesecurity.git"
+    "url": "git://github.com/requiresafe/eslint-config-andyet.git"
   },
   "keywords": [
     "eslint",
@@ -18,9 +18,9 @@
   "author": "Nathan LaFreniere <quitlahok@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/requiresafe/eslint-config-nodesecurity/issues"
+    "url": "https://github.com/requiresafe/eslint-config-andyet/issues"
   },
-  "homepage": "https://github.com/requiresafe/eslint-config-nodesecurity#readme",
+  "homepage": "https://github.com/requiresafe/eslint-config-andyet#readme",
   "dependencies": {
     "eslint-plugin-hapi": "^2.0.0"
   }
