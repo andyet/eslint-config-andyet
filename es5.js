@@ -60,7 +60,7 @@ module.exports = {
     'semi-spacing': [2, { before: false, after: true }],
     'sort-vars': 1,
     'space-after-keywords': 2,
-    'space-before-function-paren': 2,
+    'space-before-function-paren': [2, { anonymous: 'always', named: 'never' }],
     'space-infix-ops': 2,
     'space-return-throw-case': 2,
     'space-unary-ops': [1, { words: true, nonwords: false }],
