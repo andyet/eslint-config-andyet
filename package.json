@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/requiresafe/eslint-config-andyet.git"
+    "url": "git://github.com/andyet/eslint-config-andyet.git"
   },
   "keywords": [
     "eslint"
@@ -16,9 +16,9 @@
   "author": "Nathan LaFreniere <quitlahok@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/requiresafe/eslint-config-andyet/issues"
+    "url": "https://github.com/andyet/eslint-config-andyet/issues"
   },
-  "homepage": "https://github.com/requiresafe/eslint-config-andyet#readme",
+  "homepage": "https://github.com/andyet/eslint-config-andyet#readme",
   "dependencies": {
     "eslint-plugin-hapi": "^2.0.0"
   }
