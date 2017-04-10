@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/andyet/eslint-config-andyet#readme",
   "dependencies": {
-    "eslint-plugin-hapi": "^2.0.0"
+    "eslint-plugin-hapi": "^4.0.0"
   }
 }
